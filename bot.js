@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf');
-const bot = new Telegraf("527489649:AAHQKLYJRAvNgTUUKqpUsu6vkW3j4yOhC4o");
+const bot = new Telegraf("*");
 
 const chatid = [];
 
