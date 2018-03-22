@@ -16,6 +16,6 @@
     "node-schedule-tz": "^1.2.1-4",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
-    "telegraf": "^3.18.0"
+    "telegraf": "^3.19.0"
   }
 }
