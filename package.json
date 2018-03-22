@@ -1,0 +1,21 @@
+{
+  "name": "TelegramBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cron": "^1.3.0",
+    "node-schedule": "^1.3.0",
+    "node-schedule-tz": "^1.2.1-4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "telegraf": "^3.18.0"
+  }
+}
